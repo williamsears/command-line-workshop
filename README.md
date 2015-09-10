@@ -46,3 +46,14 @@ For this workshop, you will be working inside the DecodeMTL project in your Clou
  * Take the output of the cow saying its fortune to a file called `cow-fortune.txt`
  * Add/commit all your files
  * Push the branch to GitHub and create a pull request to submit your answer
+
+## Advanced pipes and redirection
+ * Learn more about the `sort` command
+ * Learn more about the `uniq` command
+ * Learn more about the `wc` command
+ * Using one of the previous commands, count the number of words in the `poem.txt` file and send that to a file called `poem-words.txt`
+ * Using one of the previous commands, count the number of lines in the `poem.txt` file and send that to a file called `poem-lines.txt`
+ * Sort the `poem.txt` file in alphabetical order, and send this output to `poem-sorted.txt`
+ * Create a file called `poem-unique.txt` that contains the sorted poem, but without duplicate lines
+ * Create a file called `poem-popular.txt` that contains the lines of the poem sorted in the order they appear most often
+ * Create a file called `poem-hipster.txt` that contains **ONLY** the lines that appear once in the poem
