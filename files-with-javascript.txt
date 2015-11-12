@@ -1,0 +1,4 @@
+README.md: * Find all the files in the DecodeMTL project that contain the word "javascript"
+README.md: * Take the output of the command to a file called `files-with-javascript.txt`
+README.md: * Take the output of the command to a file called `files-with-javascript-numbers.txt`
+README.md: * Take the output of that new command to a file called `filenames-with-javascript.txt`
